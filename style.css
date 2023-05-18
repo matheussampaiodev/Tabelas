@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+table {
+    width: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+}
+
+th {
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.emp {
+    text-align: center;
+}
